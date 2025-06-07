@@ -70,3 +70,13 @@ FreeSteamCodeGenerator.exe
 ---
 
 **If you lost your source, don't give up!** With a little disassembly and some help from modern AI, you can revive even the weirdest projects from the past.
+
+---
+
+## License
+
+This project is released under the GNU General Public License v3.0 (GPL-3.0). See [LICENSE](LICENSE) for details.
+
+---
+
+**Free software, free as in freedom!**
